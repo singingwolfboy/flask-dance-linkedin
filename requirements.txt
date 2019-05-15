@@ -1,2 +1,2 @@
-flask-dance
+flask-dance>=2.1.0
 gunicorn
